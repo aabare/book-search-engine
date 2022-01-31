@@ -30,4 +30,4 @@ Contributors should read the installation section.
 There are no tests for this application. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
+If you have any questions about this projects, please contact me directly at a.6942@yahoo.com. You can view more of my projects at https://github.com/aabare.
